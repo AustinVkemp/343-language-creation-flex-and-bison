@@ -71,3 +71,7 @@ Included in this repository are a sample Flex and sample Bison file for a calcul
 Additionally, I have created a sample program for you.  If you run the command ```zjs < sample_program.zjs``` you should see output like the following:
 
 ![Output from zjs on sample.zjs](./sample_drawing.zjs.png)
+
+## Submission
+
+Submit either a github link (preferred), or a zipped project directory to Blackboard.  Due date 10/30.
