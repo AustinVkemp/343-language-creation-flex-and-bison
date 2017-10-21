@@ -49,7 +49,7 @@ Flex will create the ```lex.yy.c``` lexer code when you run the command ```flex 
 We then compile ```zoomjoystrong.c```, ```lex.yy.c```, and ```zoomjoystrong.tab.c``` into an executable called ```zjs``` with the command:
 
 ```C
-gcc -o zjs zoomjoystrong.c lex.yy.c zoomjoystrong.tab.c -lSDL2```
+gcc -o zjs zoomjoystrong.c lex.yy.c zoomjoystrong.tab.c -lSDL2
 ```
 
 on the EOS system.  Please note that this graphics library will usually fail to draw if you are logged in remotely, meaning you either need to test in the EOS or Arch labs, or install SDL2 on your systems.
